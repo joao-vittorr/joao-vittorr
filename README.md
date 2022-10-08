@@ -7,7 +7,6 @@
 
 ![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vittorr&show_icons=true&theme=dracula)
 
-##
 ## Conhecimentos em construção:
 
 <div style="display: inline_block">
