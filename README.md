@@ -1,5 +1,5 @@
 # Olá! Sou João Vitor ✌️
-#### Graduando no curso de Análise e Desenvolvimento de Sistema pelo IFRN. Atualmente sou estagiário do SEBRAE-RN. Sou apaixonado por tecnologia, sempre buscando me manter atualizado sobre novas tecnologias e estudando para se tornar um desenvolvedor Front-End.
+#### Graduando no curso de Análise e Desenvolvimento de Sistema pelo IFRN. Sou apaixonado por tecnologia, sempre buscando me manter atualizado sobre novas tecnologias e estudando para se tornar um desenvolvedor.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vittorr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_vittorr_/)
