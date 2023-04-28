@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_vittorr_/)
 
 
-![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vittorr&show_icons=true&theme=dracula)
+![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vittorr&show_icons=true&theme=transparent)
 
 ## Conhecimentos em construção:
 
