@@ -1,5 +1,5 @@
 # Olá! Sou João Vitor ✌️
-#### Graduando no curso de Análise e Desenvolvimento de Sistema pelo IFRN. Sou apaixonado por tecnologia, sempre buscando me manter atualizado sobre novas tecnologias e estudando para se tornar um desenvolvedor.
+#### Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN e entusiasta de tecnologia e programação. Como estagiário no Sebrae, mergulhei no mundo empreendedor, obtendo insights valiosos. Meu foco está na área de programação, com conhecimentos em Front-End. Acredito no poder da tecnologia para transformar ideias em soluções práticas e estou empenhado em aprimorar minhas habilidades para criar experiências digitais envolventes. Estou atualmente buscando oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores. Minha jornada é guiada pela curiosidade, aprendizado contínuo e pela paixão pela inovação. Vamos conectar e compartilhar nossa paixão pela tecnologia!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vittorr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_vittorr_/)
