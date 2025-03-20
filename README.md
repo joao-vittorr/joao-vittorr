@@ -4,8 +4,6 @@
 Durante meu estágio no Sebrae, ganhei experiência valiosa em atendimento ao cliente e insights sobre o mundo empreendedor. Atualmente, estou buscando oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores. Minha jornada é guiada pela curiosidade, aprendizado contínuo e paixão pela inovação.
 
 
-![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vittorr&show_icons=true&theme=transparent)
-
 ## Conhecimentos em construção:
 
 <div style="display: inline_block">
