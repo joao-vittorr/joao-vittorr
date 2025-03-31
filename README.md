@@ -1,22 +1,43 @@
 # Olá! Sou João Vitor ✌️
-#### Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN, com sólida formação em front-end (HTML, CSS, JavaScript, Bootstrap) adquirida no curso de Programador Web. No IFRN, obtive conhecimentos básicos de back-end, começando com C++ e migrando para Java (orientação a objetos) e desenvolvimento com PHP (Laravel) e Java (Spring Boot).
 
-Durante meu estágio no Sebrae, ganhei experiência valiosa em atendimento ao cliente e insights sobre o mundo empreendedor. Atualmente, estou buscando oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores. Minha jornada é guiada pela curiosidade, aprendizado contínuo e paixão pela inovação.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN. Minha jornada é guiada pela curiosidade, aprendizado contínuo e paixão pela inovação. Atualmente, estou buscando oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores. 
 
 
-## Conhecimentos em construção:
+## Tecnologias que eu uso
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div><br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![REACT](https://img.shields.io/badge/React-WHITE?style=for-the-badge&logo=REACT&logoColor=000000&color=%2361DAFB)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-white?style=for-the-badge&logo=postgresql&logoColor=ffffff&color=%234169E1)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=ffffff&color=%23181717)
+
+
+### Outras tecnologias com as quais já tive contato:
+![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP&logoColor=ffffff&color=%23777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=ffffff&color=%23FF2D20)
+![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=ffffff&color=%23A8B9CC)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=ffffff&color=%232496ED)
+
+
+## Conhecimentos
+
+- Análise de Projetos Orientados a Objetos
+- Banco de Dados
+- Desenvolvimento Web
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+
 
 # Um pouco mais sobre min
-#### Desde criança, sempre fui apaixonado por jogos e tecnologia. Meu primeiro computador foi o portal para um mundo fascinante, onde comecei a explorar e entender como tudo funcionava. Com o tempo, desenvolvi habilidades em manutenção, e realizei cursos em Informática Básica e Operador de Computadores. Esse conhecimento me permitiu prestar serviços de manutenção, formatação e instalação de softwares para conhecidos.
+
+Desde criança, sempre fui apaixonado por jogos e tecnologia. Meu primeiro computador foi o portal para um mundo fascinante, onde comecei a explorar e entender como tudo funcionava. Com o tempo, desenvolvi habilidades em manutenção, e realizei cursos em Informática Básica e Operador de Computadores. Esse conhecimento me permitiu prestar serviços de manutenção, formatação e instalação de softwares para conhecidos.
 
 Minha trajetória acadêmica incluiu uma passagem pela licenciatura em Física na Universidade Estadual da Paraíba (UEPB), onde percebi que, apesar de gostar da matéria, minha verdadeira paixão continuava sendo a tecnologia. Foi então que decidi recomeçar e ingressei no curso de Análise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Norte (IFRN).
 
@@ -24,7 +45,6 @@ Durante a graduação, fiz um curso de Programador Web, onde adquiri mais conhec
 
 Atualmente, estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores. Minha jornada é guiada pela curiosidade, aprendizado contínuo e paixão pela inovação. Vamos conectar e compartilhar nossa paixão pela tecnologia!
 
-<br/>
 
 # Redes sociais
 
