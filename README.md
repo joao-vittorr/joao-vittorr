@@ -35,6 +35,19 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN. Minha jornada �
 - Estruturas de Dados
 
 
+## Formação Acadêmica
+
+- 2020 - até o momento | Tecnologia em Análise e Desenvolvimento de Sistemas
+
+
+## Cursos
+
+- Informatica básica (40h)
+- Operador de computadores (160h)
+- Programador Web (210h)
+- Sistemas Embarcados (160h)
+
+
 # Um pouco mais sobre min
 
 Desde criança, sempre fui apaixonado por jogos e tecnologia. Meu primeiro computador foi o portal para um mundo fascinante, onde comecei a explorar e entender como tudo funcionava. Com o tempo, desenvolvi habilidades em manutenção, e realizei cursos em Informática Básica e Operador de Computadores. Esse conhecimento me permitiu prestar serviços de manutenção, formatação e instalação de softwares para conhecidos.
