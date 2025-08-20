@@ -1,6 +1,6 @@
 # Olá! Sou João Vitor ✌️
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN. Minha jornada é guiada pela curiosidade, aprendizado contínuo e paixão pela inovação.
+Sou graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFRN. Minha jornada é guiada pela curiosidade, aprendizado contínuo e paixão pela inovação.
 
 
 ## Tecnologias que eu uso
