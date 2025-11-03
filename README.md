@@ -37,7 +37,7 @@ Sou graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFRN. 
 
 ## Formação Acadêmica
 
-- 2020 - até o momento | Tecnologia em Análise e Desenvolvimento de Sistemas
+- 2020 - 2025 | Tecnologia em Análise e Desenvolvimento de Sistemas
 
 
 ## Cursos
